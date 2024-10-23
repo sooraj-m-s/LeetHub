@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
