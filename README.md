@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3312-number-of-changing-keys](https://github.com/sooraj-m-s/LeetHub/tree/master/3312-number-of-changing-keys) |
+| [3636-check-balanced-string](https://github.com/sooraj-m-s/LeetHub/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
