@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
