@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sooraj-m-s/LeetHub/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
