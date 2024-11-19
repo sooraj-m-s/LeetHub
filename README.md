@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2181-smallest-index-with-equal-value](https://github.com/sooraj-m-s/LeetHub/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
