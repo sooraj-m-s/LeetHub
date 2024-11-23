@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/sooraj-m-s/LeetHub/tree/master/3312-number-of-changing-keys) |
 | [3636-check-balanced-string](https://github.com/sooraj-m-s/LeetHub/tree/master/3636-check-balanced-string) |
 ## Hash Table
