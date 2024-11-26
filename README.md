@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sooraj-m-s/LeetHub/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2812-find-the-maximum-achievable-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
