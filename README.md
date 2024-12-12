@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sooraj-m-s/LeetHub/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
