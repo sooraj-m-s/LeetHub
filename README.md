@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2737-row-with-maximum-ones](https://github.com/sooraj-m-s/LeetHub/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/sooraj-m-s/LeetHub/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/sooraj-m-s/LeetHub/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
