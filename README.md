@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2630-alternating-digit-sum](https://github.com/sooraj-m-s/LeetHub/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sooraj-m-s/LeetHub/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
