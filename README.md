@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/sooraj-m-s/LeetHub/tree/master/2235-capitalize-the-title) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
