@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sooraj-m-s/LeetHub/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/sooraj-m-s/LeetHub/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2058-concatenation-of-array) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/sooraj-m-s/LeetHub/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
