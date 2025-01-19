@@ -207,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/sooraj-m-s/LeetHub/tree/master/1833-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
