@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/sooraj-m-s/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/sooraj-m-s/LeetHub/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/sooraj-m-s/LeetHub/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/sooraj-m-s/LeetHub/tree/master/2886-faulty-keyboard) |
 ## Two Pointers
 |  |
 | ------- |
