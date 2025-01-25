@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sooraj-m-s/LeetHub/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/sooraj-m-s/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/sooraj-m-s/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
