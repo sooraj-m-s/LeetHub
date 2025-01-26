@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/sooraj-m-s/LeetHub/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/3379-score-of-a-string) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sooraj-m-s/LeetHub/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3636-check-balanced-string](https://github.com/sooraj-m-s/LeetHub/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sooraj-m-s/LeetHub/tree/master/2886-faulty-keyboard) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/sooraj-m-s/LeetHub/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
 | ------- |
