@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0932-monotonic-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1797-goal-parser-interpretation](https://github.com/sooraj-m-s/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
