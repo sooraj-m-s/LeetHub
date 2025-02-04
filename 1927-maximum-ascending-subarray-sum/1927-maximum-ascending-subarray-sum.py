@@ -1,11 +1,10 @@
 class Solution:
     def maxAscendingSum(self, nums: List[int]) -> int:
-        ans, store = [], [nums[0]]
+        max_sum = curr_sum = nums[0]
         for i in range(1, len(nums)):
             if nums[i-1] < nums[i]:
-                store.append(nums[i])
+                curr_sum += nums[i]
             else:
-                ans.append(sum(store))
-                store = [nums[i]]
-        ans.append(sum(store))
-        return max(ans)
+                max_sum = max(max_sum, curr_sum)
+                curr_sum = nums[i]
+        return max(max_sum, curr_sum)
