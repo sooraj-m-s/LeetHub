@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1542-consecutive-characters](https://github.com/sooraj-m-s/LeetHub/tree/master/1542-consecutive-characters) |
 | [1797-goal-parser-interpretation](https://github.com/sooraj-m-s/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
