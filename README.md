@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0812-rotate-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/sooraj-m-s/LeetHub/tree/master/1542-consecutive-characters) |
 | [1797-goal-parser-interpretation](https://github.com/sooraj-m-s/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
