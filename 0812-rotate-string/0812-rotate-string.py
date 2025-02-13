@@ -6,10 +6,9 @@ class Solution:
         while k < len(goal_list):
             if s_list == goal_list:
                 return True
-            else:
-                first = goal_list[0]
-                temp = goal_list[1:]
-                goal_list = temp
-                goal_list.append(first)
+            first = goal_list[0]
+            rest = goal_list[1:]
+            goal_list = rest
+            goal_list.append(first)
             k += 1
         return False
