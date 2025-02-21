@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2639-separate-the-digits-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/sooraj-m-s/LeetHub/tree/master/2727-number-of-senior-citizens) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 ## Counting
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
 ## Matrix
