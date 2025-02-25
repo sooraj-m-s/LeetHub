@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0812-rotate-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sooraj-m-s/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1542-consecutive-characters](https://github.com/sooraj-m-s/LeetHub/tree/master/1542-consecutive-characters) |
 | [1797-goal-parser-interpretation](https://github.com/sooraj-m-s/LeetHub/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sooraj-m-s/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sooraj-m-s/LeetHub/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
