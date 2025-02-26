@@ -268,21 +268,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sooraj-m-s/LeetHub/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sooraj-m-s/LeetHub/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/sooraj-m-s/LeetHub/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/sooraj-m-s/LeetHub/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
