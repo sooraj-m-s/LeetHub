@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/sooraj-m-s/LeetHub/tree/master/1899-count-items-matching-a-rule) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/sooraj-m-s/LeetHub/tree/master/1970-sorting-the-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sooraj-m-s/LeetHub/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sooraj-m-s/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1970-sorting-the-sentence](https://github.com/sooraj-m-s/LeetHub/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
