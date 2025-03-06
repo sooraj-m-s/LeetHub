@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/sooraj-m-s/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3429-special-array-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/sooraj-m-s/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/sooraj-m-s/LeetHub/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/sooraj-m-s/LeetHub/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/sooraj-m-s/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sooraj-m-s/LeetHub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/sooraj-m-s/LeetHub/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sooraj-m-s/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/sooraj-m-s/LeetHub/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/sooraj-m-s/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
