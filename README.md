@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/sooraj-m-s/LeetHub/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sooraj-m-s/LeetHub/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/sooraj-m-s/LeetHub/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/sooraj-m-s/LeetHub/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sooraj-m-s/LeetHub/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sooraj-m-s/LeetHub/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/sooraj-m-s/LeetHub/tree/master/0861-flipping-an-image) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Recursion
 |  |
 | ------- |
