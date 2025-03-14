@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/sooraj-m-s/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sooraj-m-s/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/sooraj-m-s/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/sooraj-m-s/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
