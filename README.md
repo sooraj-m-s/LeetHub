@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/sooraj-m-s/LeetHub/tree/master/1168-duplicate-zeros) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sooraj-m-s/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1970-sorting-the-sentence](https://github.com/sooraj-m-s/LeetHub/tree/master/1970-sorting-the-sentence) |
