@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2639-separate-the-digits-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sooraj-m-s/LeetHub/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/2887-sort-vowels-in-a-string) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
 |  |
