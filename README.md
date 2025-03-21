@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sooraj-m-s/LeetHub/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0027-remove-element) |
+| [0234-palindrome-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sooraj-m-s/LeetHub/tree/master/0349-intersection-of-two-arrays) |
@@ -277,11 +279,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/sooraj-m-s/LeetHub/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
