@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/sooraj-m-s/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1217-relative-sort-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/sooraj-m-s/LeetHub/tree/master/0782-jewels-and-stones) |
+| [1217-relative-sort-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sooraj-m-s/LeetHub/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1217-relative-sort-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sooraj-m-s/LeetHub/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/sooraj-m-s/LeetHub/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/sooraj-m-s/LeetHub/tree/master/1217-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
