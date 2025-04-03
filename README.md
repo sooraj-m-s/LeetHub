@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sooraj-m-s/LeetHub/tree/master/0861-flipping-an-image) |
+| [1806-count-of-matches-in-tournament](https://github.com/sooraj-m-s/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/sooraj-m-s/LeetHub/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sooraj-m-s/LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sooraj-m-s/LeetHub/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sooraj-m-s/LeetHub/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sooraj-m-s/LeetHub/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/sooraj-m-s/LeetHub/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sooraj-m-s/LeetHub/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sooraj-m-s/LeetHub/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2630-alternating-digit-sum](https://github.com/sooraj-m-s/LeetHub/tree/master/2630-alternating-digit-sum) |
