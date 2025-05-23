@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sooraj-m-s/LeetHub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sooraj-m-s/LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sooraj-m-s/LeetHub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/sooraj-m-s/LeetHub/tree/master/2634-minimum-common-value) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sooraj-m-s/LeetHub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sooraj-m-s/LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sooraj-m-s/LeetHub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sooraj-m-s/LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sooraj-m-s/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sooraj-m-s/LeetHub/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/sooraj-m-s/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/sooraj-m-s/LeetHub/tree/master/2634-minimum-common-value) |
