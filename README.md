@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2634-minimum-common-value](https://github.com/sooraj-m-s/LeetHub/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sooraj-m-s/LeetHub/tree/master/2639-separate-the-digits-in-an-array) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/sooraj-m-s/LeetHub/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2679-count-distinct-numbers-on-board](https://github.com/sooraj-m-s/LeetHub/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sooraj-m-s/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/sooraj-m-s/LeetHub/tree/master/2727-number-of-senior-citizens) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sooraj-m-s/LeetHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/sooraj-m-s/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sooraj-m-s/LeetHub/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/sooraj-m-s/LeetHub/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/sooraj-m-s/LeetHub/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/sooraj-m-s/LeetHub/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
