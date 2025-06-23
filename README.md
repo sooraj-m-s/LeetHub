@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sooraj-m-s/LeetHub/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sooraj-m-s/LeetHub/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sooraj-m-s/LeetHub/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sooraj-m-s/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sooraj-m-s/LeetHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sooraj-m-s/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sooraj-m-s/LeetHub/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sooraj-m-s/LeetHub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sooraj-m-s/LeetHub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sooraj-m-s/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sooraj-m-s/LeetHub/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
