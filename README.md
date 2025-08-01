@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sooraj-m-s/LeetHub/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sooraj-m-s/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sooraj-m-s/LeetHub/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sooraj-m-s/LeetHub/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/sooraj-m-s/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sooraj-m-s/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sooraj-m-s/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sooraj-m-s/LeetHub/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sooraj-m-s/LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sooraj-m-s/LeetHub/tree/master/0406-queue-reconstruction-by-height) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
