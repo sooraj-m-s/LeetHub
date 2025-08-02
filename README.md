@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/sooraj-m-s/LeetHub/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/sooraj-m-s/LeetHub/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/sooraj-m-s/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sooraj-m-s/LeetHub/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sooraj-m-s/LeetHub/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,4 +456,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
+| [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
