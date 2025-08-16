@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sooraj-m-s/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/sooraj-m-s/LeetHub/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sooraj-m-s/LeetHub/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/sooraj-m-s/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sooraj-m-s/LeetHub/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/sooraj-m-s/LeetHub/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
@@ -465,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sooraj-m-s/LeetHub/tree/master/0208-implement-trie-prefix-tree) |
 | [0860-design-circular-queue](https://github.com/sooraj-m-s/LeetHub/tree/master/0860-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sooraj-m-s/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
